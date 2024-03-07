@@ -15,6 +15,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+to see google spreadsheet link:https://docs.google.com/spreadsheets/d/1R4o1xD9ZI27ZLu_Ue_CcQnA0vGArcVXAcyzUgH0273I/edit#gid=0
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
