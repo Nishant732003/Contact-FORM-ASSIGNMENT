@@ -1,3 +1,5 @@
+It is a contact Form to Submit data from frontend and use google spraedsheet for small applications.Ituses Tailwind Css fro Styling >It uses TypeScript for code.It uses google apis for google spreadsheet.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
